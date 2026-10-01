@@ -96,6 +96,4 @@ JAVA_BOOK/
 - Answers are inside `<details>` blocks (click to reveal). If your viewer doesn't render them, they still read fine — just don't peek.
 - Your source files were **never modified**. Everything was read from a copy.
 
-## ⚠ Things I could not know
-
-1. **Days 1–5 are not labelled** in the ZIP (no `day1.java`…`day5.java`). I grouped those files as a *Foundation Block* and did not invent exact day numbers. See [ARCHIVE_AUDIT.md](ARCHIVE_AUDIT.md).
+------------------
