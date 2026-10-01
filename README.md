@@ -99,5 +99,3 @@ JAVA_BOOK/
 ## ⚠ Things I could not know
 
 1. **Days 1–5 are not labelled** in the ZIP (no `day1.java`…`day5.java`). I grouped those files as a *Foundation Block* and did not invent exact day numbers. See [ARCHIVE_AUDIT.md](ARCHIVE_AUDIT.md).
-2. **Big-O never appears in your files.** The complexity sheet is *added by this book*; its status is ⚪ until you practise it.
-3. **Mastery is inferred from files only.** Your live-session struggles (e.g. Day 27–28 fatigue) come from what you told me, marked 💬.
